@@ -8,13 +8,15 @@ Welcome to my portfolio! I'm a creative, driven, independent programmer & IT spe
 
 🎮 Check out my Minecraft Mod, [Warpstone](https://www.curseforge.com/minecraft/mc-mods/warpstone)!
 
+🖱️ Or my RTS Game, [MarsTS](https://github.com/MissMurph/MarsTS)!
+
 Or some of my other projects:
 
 ![Screenshot of Wikipedia's "This list is incomplete, you can help by expanding it"](https://imgur.com/wyWRF8v.png)
 
 - 🪖 [Untitled Tank Game](https://github.com/MissMurph/Tonk-Game)
-- 🖱️ [MarsTS](https://github.com/MissMurph/MarsTS)
 - 🌃 [Ceres2600](https://github.com/MissMurph/Ceres2600)
+- 🌐 [Red Riches](https://github.com/MissMurph/Red-Riches)
 
 🥊 I'm passionate about kickboxing & fitness!
 
